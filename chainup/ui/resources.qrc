@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>images/stop_checking.png</file>
+    <file>images/start_checking.png</file>
+    <file>images/host_connect.png</file>
+    <file>images/host_add_save.png</file>
+    <file>images/host_invalid.png</file>
+    <file>images/host_valid.png</file>
+    <file>images/no.png</file>
+    <file>images/ok.png</file>
+    <file>images/checking.png</file>
+    <file>images/notyet.png</file>
+    <file>images/delete.png</file>
+    <file>images/edit.png</file>
+    <file>images/scheme.png</file>
+    <file>images/logo.png</file>
+    <file>images/start.png</file>
+    <file>images/choose.png</file>
+    <file>images/input.png</file>
+    <file>images/config.png</file>
+    <file>images/check.png</file>
+    <file>images/deploy.png</file>
+    <file>images/finished.png</file>
+    <file>images/help.png</file>
+    <file>images/settings.png</file>
+    <file>images/exit.png</file>
+  </qresource>
+</RCC>
